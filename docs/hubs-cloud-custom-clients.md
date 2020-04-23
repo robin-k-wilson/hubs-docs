@@ -20,7 +20,7 @@ Now that you have the Hubs repository cloned you'll need to install some depende
 npm ci
 ```
 
-To run the client against your Hubs Cloud stack and deploy code to it, you'll need to be authenticated. Run `npm run login` and follow the instructions to authenticate.
+To run the client against your Hubs Cloud stack and deploy code to it, you'll need to be authenticated. Run `npm run login` and follow the instructions to authenticate (not `npm login`).
 
 ```bash
 npm run login
